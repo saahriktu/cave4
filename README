@@ -1,0 +1,11 @@
+Cave 4 v0.2
+
+Ncurses version of cave 2 game.
+
+Controls:
+1-3 - choose corridor
+j,k - map scroll
+q - quit
+
+Author: Kurashov Artem
+License: GNU GPLv3
