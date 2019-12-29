@@ -1,4 +1,4 @@
-/* Cave 4 v0.2
+/* Cave 4 v0.3
  * Cave with corridors, ninjas and one exit game.
  * More rooms than in first game.
  * Author: Kurashov Artem
